@@ -5,7 +5,7 @@ public class hamming_distance {
     }
 }
 
-class Solution {
+class sn {
     public int hammingDistance(int x, int y) {
         String s1 = toBinary(x);
         String s2 = toBinary(y);
